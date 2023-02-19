@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jimokonma
-- 👀 I’m interested in Web and mobile development
-- 🌱 I’m currently learning about AI and hope to be an AI developer soon
-- 💞️ I’m looking to collaborate on any type of project
-- 📫 How to reach me  email or phone (+234 9034572737)
+👋 Hi, I'm [Jim Okonma], a full stack developer passionate about building web and mobile applications. With expertise in both frontend and backend technologies, I bring ideas to life by creating interactive, user-friendly and scalable applications.
 
-<!---
-jimokonma/jimokonma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I'm currently exploring the exciting world of Artificial Intelligence and Machine Learning, with the goal of integrating these technologies into my future projects.
+
+👀 My GitHub profile showcases a range of projects in various programming languages including JavaScript, Python, Ruby, and Java. I am always looking for new and interesting projects to collaborate on and contribute to.
+
+💬 Connect with me to discuss your next project or idea. I can be reached via email or phone (+234 9034572737).
+
+🚀 Let's build something amazing together!
