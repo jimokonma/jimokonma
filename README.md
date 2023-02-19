@@ -1,9 +1,24 @@
-👋 Hi, I'm [Jim Okonma], a full stack developer passionate about building web and mobile applications. With expertise in both frontend and backend technologies, I bring ideas to life by creating interactive, user-friendly and scalable applications.
+# Hi there, I'm Jim Okonma 👋
 
-🌱 I'm currently exploring the exciting world of Artificial Intelligence and Machine Learning, with the goal of integrating these technologies into my future projects.
+I'm a Full Stack Developer with a passion for building beautiful and functional web and mobile applications.
 
-👀 My GitHub profile showcases a range of projects in various programming languages including JavaScript, Python, Ruby, and Java. I am always looking for new and interesting projects to collaborate on and contribute to.
+## What I do
+- Develop and maintain web and mobile applications
+- Write clean, well-documented and efficient code
+- Collaborate with other developers and designers to create amazing user experiences
 
-💬 Connect with me to discuss your next project or idea. I can be reached via email or phone (+234 9034572737).
+## My tech stack
+- **Front-end**: HTML, CSS, JavaScript, React, Vue
+- **Back-end**: Node.js, Express, Django
+- **Database**: MongoDB, PostgreSQL, MySQL
+- **Other tools**: Git, Docker, AWS, Heroku
 
-🚀 Let's build something amazing together!
+## What I'm currently learning
+I'm always learning new things and expanding my skills. Currently, I'm focusing on the following areas:
+- Machine Learning
+- Artificial Intelligence
+
+## How to reach me
+- Email: your.email@example.com
+- LinkedIn: [Jim Okonma](https://www.linkedin.com/in/jim-okonma-96b1a7137/)
+- Twitter: [@jim_or_nah](https://twitter.com/jim_or_nah)
