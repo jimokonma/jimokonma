@@ -33,7 +33,7 @@ I'm a Full Stack Developer with a passion for building beautiful and functional 
 
 <div style="text-align: center; padding-top: 20px;">
   <h2>How to reach me</h2>
-  <p>Email: your.email@example.com</p>
+  <p>Email: jim.okonma@gmail.com.com</p>
   <p>LinkedIn: <a href="https://www.linkedin.com/in/jim-okonma-96b1a7137/" target="_blank" style="color: #000; font-weight: bold;">Jim Okonma</a></p>
   <p>Twitter: <a href="https://twitter.com/jim_or_nah" target="_blank" style="color: #000; font-weight: bold;">@jim_or_nah</a></p>
 </div>
