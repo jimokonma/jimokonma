@@ -1,6 +1,12 @@
 <!-- README.md file -->
 
-# Hi there, I'm Jim Okonma 👋
+<div style="background-image: url(https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80); background-size: cover; height: 250px; border-bottom: 1px solid #000;">
+  <div style="background-color: rgba(255, 255, 255, 0.7); height: 100%; display: flex; justify-content: center; align-items: center;">
+    <h1 style="color: #000; font-size: 3rem;">Hi there, I'm Jim Okonma 👋</h1>
+  </div>
+</div>
+
+# About Me
 
 I'm a Full Stack Developer with a passion for building beautiful and functional web and mobile applications.
 
@@ -9,13 +15,14 @@ I'm a Full Stack Developer with a passion for building beautiful and functional 
 - Write clean, well-documented and efficient code
 - Collaborate with other developers and designers to create amazing user experiences
 
-<div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); padding: 20px;">
+## My tech stack
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 5px;">
   <h2 style="margin-top: 0;">My tech stack</h2>
   <ul>
-    <li><strong>Front-end</strong>: HTML, CSS, JavaScript, React, React Native</li>
-    <li><strong>Back-end</strong>: Node.js, Express</li>
+    <li><strong>Front-end</strong>: HTML, CSS, JavaScript, React, Vue</li>
+    <li><strong>Back-end</strong>: Node.js, Express, Django</li>
     <li><strong>Database</strong>: MongoDB, PostgreSQL, MySQL</li>
-    <li><strong>Other tools</strong>: Git, FireBase</li>
+    <li><strong>Other tools</strong>: Git, Docker, AWS, Heroku</li>
   </ul>
 </div>
 
@@ -24,9 +31,9 @@ I'm a Full Stack Developer with a passion for building beautiful and functional 
 - Artificial Intelligence
 
 ## How to reach me
-<div style="text-align: center;">
+<div style="text-align: center; padding-top: 20px;">
   <h2>How to reach me</h2>
-  <p>Email: jim.okonma@gmail.com</p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/jim-okonma-96b1a7137/" target="_blank">Jim Okonma</a></p>
-  <p>Twitter: <a href="https://twitter.com/jim_or_nah" target="_blank">@jim_or_nah</a></p>
+  <p>Email: your.email@example.com</p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/jim-okonma-96b1a7137/" target="_blank" style="color: #000; font-weight: bold;">Jim Okonma</a></p>
+  <p>Twitter: <a href="https://twitter.com/jim_or_nah" target="_blank" style="color: #000; font-weight: bold;">@jim_or_nah</a></p>
 </div>
