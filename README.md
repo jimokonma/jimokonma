@@ -9,7 +9,6 @@ I'm a Full Stack Developer with a passion for building beautiful and functional 
 - Write clean, well-documented and efficient code
 - Collaborate with other developers and designers to create amazing user experiences
 
-## My tech stack
 <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); padding: 20px;">
   <h2 style="margin-top: 0;">My tech stack</h2>
   <ul>
