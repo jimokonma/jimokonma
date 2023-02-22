@@ -6,6 +6,8 @@
   </div>
 </div>
 
+<div style="background: red; width: 100px height: 100px"><h1>Hello</h1></div>
+
 # About Me
 
 I'm a Full Stack Developer with a passion for building beautiful and functional web and mobile applications.
