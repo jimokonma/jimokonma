@@ -6,7 +6,7 @@
   </div>
 </div>
 
-<div style="background: red; width: 100px height: 100px"><h1>Hello</h1></div>
+<div style="background: red; width: 100px; height: 100px;"><h1>Hello</h1></div>
 
 # About Me
 
