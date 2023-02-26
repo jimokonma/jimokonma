@@ -2,7 +2,7 @@
 
 <div style="background-image: url('https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'); background-size: cover; height: 250px; border-bottom: 1px solid #000;">
   <div style="background-color: rgba(255, 255, 255, 0.7); height: 100%; display: flex; justify-content: center; align-items: center;">
-    <h1 style="color: #000; font-size: 3rem;">Hi there, I'm Jim Okonma 👋</h1>
+    <h1 style="color: red; font-size: 3rem;">Hi there, I'm Jim Okonma 👋</h1>
   </div>
 </div>
 
