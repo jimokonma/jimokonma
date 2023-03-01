@@ -21,10 +21,10 @@ I'm a Full Stack Developer with a passion for building beautiful and functional 
 <div style="background-color: #000; color: #fff; padding: 20px; border-radius: 5px;">
   <h2 style="margin-top: 0;">My tech stack</h2>
   <ul>
-    <li><strong>Front-end</strong>: HTML, CSS, JavaScript, React, Vue</li>
-    <li><strong>Back-end</strong>: Node.js, Express, Django</li>
+    <li><strong>Front-end</strong>: HTML, CSS, JavaScript, React, React Native</li>
+    <li><strong>Back-end</strong>: Node.js, Express, Nextjs</li>
     <li><strong>Database</strong>: MongoDB, PostgreSQL, MySQL</li>
-    <li><strong>Other tools</strong>: Git, Docker, AWS, Heroku</li>
+    <li><strong>Other tools</strong>: Git, Firebase, Heroku</li>
   </ul>
 </div>
 
