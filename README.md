@@ -21,11 +21,16 @@ I'm a Full Stack Developer with a passion for building beautiful and functional 
 <div style="background-color: #000; color: #fff; padding: 20px; border-radius: 5px;">
   <h2 style="margin-top: 0;">My tech stack</h2>
   <ul>
-    <li><strong>Front-end</strong>: [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-, [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-, [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-, [![ReactJS](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=React&logoColor=white)](https://reactjs.org/)
-, [![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=React&logoColor=white)](https://reactnative.dev/)
+    <li><strong>Front-end</strong>: 
+      [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+      [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+      [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+      [![ReactJS](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=React&logoColor=white)](https://reactjs.org/)
+
+      [![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=React&logoColor=white)](https://reactnative.dev/)
 </li>
     <li><strong>Back-end</strong>: [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
  [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
