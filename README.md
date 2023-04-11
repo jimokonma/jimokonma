@@ -28,9 +28,8 @@ I'm a Full Stack Developer with a passion for building beautiful and functional 
   </ul>
 </div>
 
-## What I'm currently learning
-- Machine Learning
-- Artificial Intelligence
+[![Twitter Follow](https://img.shields.io/twitter/follow/<USERNAME>?style=social)](https://twitter.com/jim_or_nah)
+
 
 
 <div style="text-align: center; padding-top: 20px;">
