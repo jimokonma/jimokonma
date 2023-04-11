@@ -35,25 +35,4 @@ I'm a Full Stack Developer with a passion for building beautiful and functional 
     <li><strong>Back-end</strong>: [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
  [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
       [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-      [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-
-</li>
-    <li><strong>Database</strong>: MongoDB, PostgreSQL, MySQL</li>
-    <li><strong>Other tools</strong>: Git, Firebase, Heroku</li>
-  </ul>
-</div>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/<Jim Okonma>?style=social)](https://twitter.com/jim_or_nah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jim-okonma-96b1a7137/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:jim.okonma@gmail.com)
-
-
-
-
-<div style="text-align: center; padding-top: 20px;">
-  <h2>How to reach me</h2>
-  <p>Email: jim.okonma@gmail.com</p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/jim-okonma-96b1a7137/" target="_blank" style="color: #000; font-weight: bold;">Jim Okonma</a></p>
-  <p>Twitter: <a href="https://twitter.com/jim_or_nah" target="_blank" style="color: #000; font-weight: bold;">@jim_or_nah</a></p>
-</div>
+      [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A
