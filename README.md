@@ -15,4 +15,7 @@ I'm a Full Stack Developer with a passion for building beautiful and functional 
 - Collaborate with other developers and designers to create amazing user experiences
 
 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
 
