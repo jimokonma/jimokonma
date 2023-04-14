@@ -1,6 +1,6 @@
 <!-- README.md file -->
 
-    <h1 style="color: red; font-size: 3rem;">Hi, I'm Jim Okonma 👋</h1>
+   # Hi, I'm Jim Okonma 👋
   
 
 
